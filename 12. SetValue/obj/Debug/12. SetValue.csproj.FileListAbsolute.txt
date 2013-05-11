@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\12. SetValue\bin\Debug\_12.SetValue.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\12. SetValue\bin\Debug\_12.SetValue.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\12. SetValue\bin\Debug\_12.SetValue.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\12. SetValue\obj\Debug\_12.SetValue.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\12. SetValue\obj\Debug\_12.SetValue.pdb

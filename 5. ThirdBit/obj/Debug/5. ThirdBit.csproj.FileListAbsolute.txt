@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\5. ThirdBit\bin\Debug\_5.ThirdBit.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\5. ThirdBit\bin\Debug\_5.ThirdBit.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\5. ThirdBit\bin\Debug\_5.ThirdBit.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\5. ThirdBit\obj\Debug\_5.ThirdBit.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\5. ThirdBit\obj\Debug\_5.ThirdBit.pdb

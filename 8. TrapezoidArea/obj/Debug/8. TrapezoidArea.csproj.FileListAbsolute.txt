@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\8. TrapezoidArea\bin\Debug\_8.TrapezoidArea.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\8. TrapezoidArea\bin\Debug\_8.TrapezoidArea.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\8. TrapezoidArea\bin\Debug\_8.TrapezoidArea.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\8. TrapezoidArea\obj\Debug\_8.TrapezoidArea.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\8. TrapezoidArea\obj\Debug\_8.TrapezoidArea.pdb

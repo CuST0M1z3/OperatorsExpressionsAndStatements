@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\4. ThirdDigit\bin\Debug\_4.ThirdDigit.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\4. ThirdDigit\bin\Debug\_4.ThirdDigit.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\4. ThirdDigit\bin\Debug\_4.ThirdDigit.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\4. ThirdDigit\obj\Debug\_4.ThirdDigit.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\4. ThirdDigit\obj\Debug\_4.ThirdDigit.pdb

@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\3. RectangleArea\bin\Debug\_3.RectangleArea.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\3. RectangleArea\bin\Debug\_3.RectangleArea.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\3. RectangleArea\bin\Debug\_3.RectangleArea.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\3. RectangleArea\obj\Debug\_3.RectangleArea.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\3. RectangleArea\obj\Debug\_3.RectangleArea.pdb

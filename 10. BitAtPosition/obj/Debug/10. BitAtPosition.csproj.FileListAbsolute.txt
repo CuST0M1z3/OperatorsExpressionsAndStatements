@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\10. BitAtPosition\bin\Debug\_10.BitAtPosition.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\10. BitAtPosition\bin\Debug\_10.BitAtPosition.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\10. BitAtPosition\bin\Debug\_10.BitAtPosition.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\10. BitAtPosition\obj\Debug\_10.BitAtPosition.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\10. BitAtPosition\obj\Debug\_10.BitAtPosition.pdb

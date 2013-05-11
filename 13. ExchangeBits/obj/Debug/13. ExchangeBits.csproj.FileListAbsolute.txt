@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\13. ExchangeBits\bin\Debug\_13.ExchangeBits.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\13. ExchangeBits\obj\Debug\13. ExchangeBits.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\13. ExchangeBits\bin\Debug\_13.ExchangeBits.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\13. ExchangeBits\bin\Debug\_13.ExchangeBits.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\13. ExchangeBits\obj\Debug\_13.ExchangeBits.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\13. ExchangeBits\obj\Debug\_13.ExchangeBits.pdb

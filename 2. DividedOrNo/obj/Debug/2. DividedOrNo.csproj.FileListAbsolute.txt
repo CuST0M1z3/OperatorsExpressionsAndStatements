@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\2. DividedOrNo\bin\Debug\_2.DividedOrNo.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\2. DividedOrNo\bin\Debug\_2.DividedOrNo.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\2. DividedOrNo\bin\Debug\_2.DividedOrNo.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\2. DividedOrNo\obj\Debug\_2.DividedOrNo.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\2. DividedOrNo\obj\Debug\_2.DividedOrNo.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\2. DividedOrNo\obj\Debug\2. DividedOrNo.csprojResolveAssemblyReference.cache

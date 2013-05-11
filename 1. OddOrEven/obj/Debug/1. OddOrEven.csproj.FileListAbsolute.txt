@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\1. OddOrEven\bin\Debug\_1.OddOrEven.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\1. OddOrEven\bin\Debug\_1.OddOrEven.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\1. OddOrEven\bin\Debug\_1.OddOrEven.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\1. OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\_1.OddOrEven.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\_1.OddOrEven.pdb

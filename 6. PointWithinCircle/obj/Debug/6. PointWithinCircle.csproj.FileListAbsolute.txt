@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\6. PointWithinCircle\bin\Debug\_6.PointWithinCircle.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\6. PointWithinCircle\bin\Debug\_6.PointWithinCircle.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\6. PointWithinCircle\bin\Debug\_6.PointWithinCircle.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\6. PointWithinCircle\obj\Debug\6. PointWithinCircle.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\6. PointWithinCircle\obj\Debug\_6.PointWithinCircle.exe
+C:\Users\SpooN\Desktop\C#Homeworks\3. OperatorsExpressionsAndStatements\6. PointWithinCircle\obj\Debug\_6.PointWithinCircle.pdb
